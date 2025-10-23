@@ -1,4 +1,4 @@
-# Hi there, I'm Nicolas Stupak 👋
+# Hi there 👋
 
 ## AI Engineer | Machine Learning Student
 
