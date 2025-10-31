@@ -34,7 +34,7 @@ Chat with AI, upload documents (PDFs, audio files), and get intelligent response
 ### 📫 How to Reach Me
 
 - GitHub: [@nickpack](https://github.com/nickpack)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/nicolas-stupak/)
+- [LinkedIn](https://www.linkedin.com/in/nicolas-stupak/)
 - Email: nicostupak@gmail.com
 
 ---
